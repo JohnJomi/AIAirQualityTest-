@@ -7,7 +7,7 @@ Run this as a script, or paste cells into a Jupyter Notebook
 (recommended, since the assignment asks for a Jupyter Notebook deliverable).
 Each "# %%" marks a natural cell boundary if you're using
 VSCode/Jupyter's cell-mode, or just copy each section into its own
-notebook cell.
+notebook cell....
 """
 
 # %% [Section 0] Setup -------------------------------------------------
